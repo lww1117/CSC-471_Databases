@@ -1,0 +1,192 @@
+
+/*This sets the background color and makes it 20px tall.*/
+.index_head {
+  background-color: midnightblue;
+  background-size: cover;
+  padding-bottom: 20px;
+
+}
+
+/*This will add an image to the background.*/
+.index_main {
+  text-align: bottom;
+  background-image: url("images/index1.jpg");
+  background-position: center;
+  background-size: cover;
+  border-bottom: midnightblue solid 20px;
+  padding-top: 600px;
+  padding-bottom: 400px;
+}
+
+/*This will set the link colors, border, and background*/
+.index_footer{
+  border-top: midnightblue solid 20px;
+  background-color: #FFFFB3;
+  background-size: cover;
+  padding-bottom: 20px;
+}
+
+/*This sets the background color and makes it 20px tall.*/
+.allergy_head {
+  color: #FFFFB3;
+  background-color: green;
+  background-size: cover;
+  padding-bottom: 20px;
+}
+
+/*This will add an image to the background.*/
+.allergy_main {
+  color: #FFFFB3;
+  background-image: url("images/sick.jpg");
+  background-position: center;
+  background-size: cover;
+  padding-top: 400px;
+  padding-bottom: 400px;
+  border-top: green solid thick;
+}
+
+/*This will set the link colors, border, and background*/
+.allergy_footer{
+  display:flex;
+  border-top: green solid 20px;
+  background-color: #FFFFB3;
+  color: midnightblue;
+  background-size: cover;
+  padding-bottom: 20px;
+}
+
+/*This sets the background color and makes it 20px tall.*/
+.patient_head {
+  color: #FFFFB3;
+  background-color: red;
+  background-size: cover;
+  padding-bottom: 20px;
+}
+
+/*This will add an image to the background.*/
+.patient_main {
+  color: #FFFFB3;
+  background-image: url("images/index.jpg");
+  background-position: center;
+  background-size: cover;
+  padding-top: 400px;
+  padding-bottom: 400px;
+  border-top: red solid 20px;
+}
+
+/*This will set the link colors, border, and background*/
+.patient_footer {
+  display:flex;
+  border-top: red solid 20px;
+  background-color: #FFFFB3;
+  color: midnightblue;
+  background-size: cover;
+  padding-bottom: 20px;
+}
+
+/*This sets the background color and makes it 20px tall.*/
+.vaccine_header {
+  color: #FFFFB3;
+  background-color: purple;
+  background-size: cover;
+  padding-bottom: 20px;
+}
+
+/*This will add an image to the background.*/
+.vaccine_main {
+  color: #FFFFB3;
+  background-image: url("images/shots2.jpg");
+  background-position: center;
+  background-size: cover;
+  padding-top: 400px;
+  padding-bottom: 400px;
+  border-top: purple solid 20px;
+}
+
+/*This will set the link colors, border, and background*/
+.vaccine_footer {
+  display:flex;
+  border-top: purple solid 20px;
+  color: midnightblue;
+  background-color: #FFFFB3;
+  background-size: cover;
+  padding-bottom: 20px;
+}
+
+/*This sets the background color and makes it 20px tall.*/
+.vaccine_site_header {
+  color: #FFFFB3;
+  background-color: gray;
+  background-size: cover;
+  padding-bottom: 20px;
+}
+
+/*This will add an image to the background.*/
+.vaccine_site_main {
+  color: #FFFFB3;
+  background-image: url("images/building.jpg");
+  background-position: center;
+  background-size: cover;
+  padding-top: 400px;
+  padding-bottom: 400px;
+  border-top: gray solid 20px;
+}
+
+/*This will set the link colors, border, and background*/
+.vaccine_site_footer {
+  display:flex;
+  border-top: gray solid 20px;
+  color: midnightblue;
+  background-color: #FFFFB3;
+  background-size: cover;
+  padding-bottom: 20px;
+}
+
+/*This sets the background color and makes it 20px tall.*/
+.records_head {
+  color: #FFFFB3;
+  background-color: orange;
+  background-size: cover;
+  padding-bottom: 20px;
+}
+
+/*This will add an image to the background.*/
+.records_main {
+  color: #FFFFB3;
+  background-image: url("images/records.jpg");
+  background-position: center;
+  background-size: cover;
+  padding-top: 400px;
+  padding-bottom: 400px;
+  border-top: orange solid 20px;
+}
+
+/*This will set the link colors, border, and background*/
+.records_footer {
+  display:flex;
+  border-top: orange solid 20px;
+  color: midnightblue;
+  background-color: #FFFFB3;
+  background-size: cover;
+  padding-bottom: 20px;
+}
+
+/*This gets the backgrounds to go all the way to the sides of the page.*/
+body{
+  margin: 0;
+}
+
+/*This sets all h1 tags to font color midnight blue and the font size to 30px.*/
+h1 {
+  color : midnightblue;
+  font-size: 30px;
+  margin-left : 20px;
+}
+
+/*This sets all the h2 tags to font color to midnight blue and increases the padding
+on both sides to guard against overlapping the links.*/
+h2 {
+  background-color: #FFFFB3;
+  color: midnightblue;
+  padding: 0px 30px;
+}
